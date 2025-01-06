@@ -86,4 +86,13 @@
 6. Уилер, Дж. А. (1983). "Закон без закона". В книге "Квантовая теория и измерение" (ред. Уилер, Дж.А., Зурек, В.Х.), Princeton University Press.
 7. Юнг, К. Г. (1964). "Человек и его символы". Наука.
 8. Хабермас, Ю. (1981). "Теория коммуникативного действия". Beacon Press.
+9. Генеративная модель ИИ ChatGPT
+
+
+
+### Ссылка на репозитарий
+[git@github.com:ramanzes/glavbook.git](https://github.com/ramanzes/glavbook.git)
+
+### Лицензия
+GNU GENERAL PUBLIC LICENSE
 
